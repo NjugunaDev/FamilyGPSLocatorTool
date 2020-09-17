@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "673415652298",
+    "firebase_url": "https://familygpslocatortool-64a04.firebaseio.com",
+    "project_id": "familygpslocatortool-64a04",
+    "storage_bucket": "familygpslocatortool-64a04.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:673415652298:android:443aaff54c80fa9dbfa533",
+        "android_client_info": {
+          "package_name": "com.mytracker.familygpstracker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "673415652298-mums9adldenq0o9bni0moq7ot315jdt4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZHhfAEKIlGluqETGBtRsp6b1c8vY3vSA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "673415652298-mums9adldenq0o9bni0moq7ot315jdt4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
